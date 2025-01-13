@@ -2,4 +2,4 @@
 Process Inteligencia Arificial
 
 
-RAG Patterns Every AI Developer 
+Architecture RAG Patterns to Systems I.A.
